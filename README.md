@@ -30,20 +30,6 @@ The project was built using:
 
 ---
 
-## 📁 Project Structure
-
-Fingan/
-├── index.html
-├── CSS/
-│ └── style.css
-├── JS/
-│ └── script.js
-├── Media/
-│ └── images & assets
-└── README.md
-
----
-
 ## 📌 How to Run the Project
 
 1. Clone the repository
